@@ -11,3 +11,5 @@ build
 node_modules
 
 .idea
+
+sample/hn_logs.tsv

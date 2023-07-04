@@ -30,6 +30,8 @@ To run the project after it has been built, use the following command:
 yarn start
 ```
 
+Add your sample file in the sample folder.
+
 By default, the project uses the sample file located at **SAMPLE_PATH**. To provide a different sample file, modify the **SAMPLE_PATH** environment variable accordingly.
 
 ## Testing
