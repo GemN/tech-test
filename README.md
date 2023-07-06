@@ -1,4 +1,4 @@
-# Ondorse Test
+# Tech Test
 
 Before running this project, ensure you have the following installed:
 
